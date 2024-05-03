@@ -3,7 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Lucas;I'm+19+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-#
 
 
 <div align="center">  
@@ -12,11 +11,8 @@
 </div>
 
 
-#
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=devlucasaquino&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-#
 
 ## knowledge in technologies
 
