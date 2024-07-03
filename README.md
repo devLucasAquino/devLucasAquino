@@ -21,7 +21,9 @@
 
 ## knowledge in technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,sass,python,nodejs,java,mysql,bootstrap,figma,git,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,sass,python,nodejs)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,bootstrap,figma,git,vscode,github)](https://skillicons.dev)
 
 ## Improving
 
