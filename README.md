@@ -21,11 +21,11 @@
 
 ## knowledge in technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,sass,python,nodejs,java,spring,mysql,bootstrap,figma,git,vscode,github&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,vue,tailwind,sass,bootstrap,python,nodejs,java,spring,postman,mysql,prisma,figma,git,vscode,github&perline=13)](https://skillicons.dev)
 
 ## Improving
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,angular,nestjs,django,nextjs,mongodb,aws,flutter,docker,vercel&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,nestjs,django,nextjs,mongodb,aws,flutter,docker,vercel&perline=13)](https://skillicons.dev)
 
 
 <p style="font-size: 1.2rem; font-weight: bold;">
