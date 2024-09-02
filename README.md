@@ -23,7 +23,7 @@
 
 ## knowledge in technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,vue,tailwind,sass,bootstrap,python,nodejs,java,spring,postman,mysql,prisma,figma,git,vscode,github&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,vue,tailwind,sass,bootstrap,python,nodejs,go,java,spring,postman,mysql,prisma,figma,git,vscode,github&perline=13)](https://skillicons.dev)
 
 ## Improving
 
