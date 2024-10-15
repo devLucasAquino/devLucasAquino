@@ -13,7 +13,7 @@
   </p>
   <p align="left">
     Entre em contato comigo :point_down: <br><br>
-    <a href="#" title="LinkedIn">
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-aquino-alves-b52761290/" title="LinkedIn">
       <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-lucas-aquino-alves-b52761290/" alt="LinkedIn"/>
   </p>
 
@@ -21,27 +21,16 @@
 
 
 
+<br>
+<br>
+<br>
 
 ### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=devlucasaquino&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=000" alt="João Lucas github stats"/> 
-    </td>
-    <td>
-      <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=devLucasAquino&theme=dark&hide_border=true&border_radius=6&date_format=%5BY%20%5DM%20j&mode=weekly" alt="João Lucas" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasaquino&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=000" />
-    </td>
-  </tr>
-</table>
-
-<div> 
-
-
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devLucasAquino&theme=dark&hide_border=true&border_radius=6&date_format=%5BY%20%5DM%20j&mode=weekly" alt="João Lucas" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devlucasaquino&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=000" alt="João Lucas github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasaquino&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=000" />
 </div>
 
 ### 🏆 GitHub Profile Trophy
