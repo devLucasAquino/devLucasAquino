@@ -1,17 +1,22 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=devLucasAquino&label=Profile%20views&color=0e75b6&style=flat" alt="devLucasAquino" /></p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" align="right" min-width="350px" max-width="350px" width="350px">
 
 <p align="left"> 
   Bem vindo ao meu perfil no Github :smile: <br>
-  Sou Lucas Aquino, Desenvolvedor e apaixonado por tecnologia :computer: :heart:<br>
-  Atualmente estou com foco em <strong>Desenvolvimento Full Stack</strong> :rocket:, <br>
+  Sou Lucas Aquino, estudante na área de Desenvolvimento :computer: :heart:<br>
+  Atualmente estou com foco em <strong>Desenvolvimento Full Stack</strong> :rocket: <br>
   Entre em contato comigo :point_down:<br>
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-lucas-aquino-alves-b52761290/" alt="LinkedIn"/></a>
   <a href="#" title="Outlook">
 
 </p>
+
+</div>
+
 
 
 
@@ -59,10 +64,3 @@
 ## Improving
 
 [![My Skills](https://skillicons.dev/icons?i=angular,nestjs,django,nextjs,mongodb,aws,flutter,docker,vercel&perline=13)](https://skillicons.dev)
-
-
-<p style="font-size: 1.2rem; font-weight: bold;">
-Passionate about technology and inspired to improve people's daily lives through code. </p>
-<p style="font-size: 1.2rem; font-weight: bold;">
-Code is life!
-</p>
