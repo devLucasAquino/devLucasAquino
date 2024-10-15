@@ -2,18 +2,21 @@
 
 
 
-<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
-  <p align="left" style="margin-right: 20px; flex: 1;">
-    Bem-vindo ao meu perfil no Github :smile: <br><br>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+  <p align="left">
+    Bem-vindo ao meu perfil no Github :smile: <br>
     Sou Lucas Aquino, estudante na área de Desenvolvimento :computer: :heart: <br><br>
+  </p>
+  <p align="left">
     Atualmente estou com foco em <strong>Desenvolvimento Full Stack</strong> :rocket: <br><br>
+  </p>
+  <p align="left">
     Entre em contato comigo :point_down: <br><br>
     <a href="#" title="LinkedIn">
       <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-lucas-aquino-alves-b52761290/" alt="LinkedIn"/>
-    </a>
   </p>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" style="min-width: 400px; max-width: 400px; width: 400px;">
-</div>
+
 
 
 
