@@ -1,10 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=devLucasAquino&label=Profile%20views&color=0e75b6&style=flat" alt="devLucasAquino" /></p>
 
 
-
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
-
-
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devLucasAquino&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devLucasAquino&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
@@ -22,6 +18,8 @@
   </div>
 
   ##
+
+![snake gif](https://github.com/devLucasAquino/devLucasAquino/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
     Entre em contato comigo :point_down: <br><br>
