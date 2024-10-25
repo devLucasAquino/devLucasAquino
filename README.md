@@ -1,8 +1,12 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=devLucasAquino&label=Profile%20views&color=0e75b6&style=flat" alt="devLucasAquino" /></p>
 
 
+
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devLucasAquino&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devLucasAquino&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
+
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLucasAquino&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
  <div align="center" >
 <a href="https://skillicons.dev"   >
