@@ -1,8 +1,12 @@
 
-
-<img align="center" src="./src/assets/wellcome.jpg">
-
 ##
+
+
+<div align="center" style="inline_block">  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devLucasAquino&&theme=dark&hide_border=true&border_radius=6&date_format=%5BY%20%5DM%20j&mode=weekly" alt="devLucasAquino" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devLucasAquino&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Aquino github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLucasAquino&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div></br>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=devLucasAquino&label=Profile%20views&color=0e75b6&style=flat" alt="devLucasAquino" /></p>
 
@@ -19,13 +23,6 @@ Neste perfil, você encontrará alguns dos meus projetos desenvolvidos durante m
 </p>
 
 
-##
-
-<div align="center" style="inline_block">  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devLucasAquino&&theme=dark&hide_border=true&border_radius=6&date_format=%5BY%20%5DM%20j&mode=weekly" alt="devLucasAquino" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devLucasAquino&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Aquino github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLucasAquino&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div></br>
 
 
  ##
