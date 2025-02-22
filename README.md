@@ -34,7 +34,7 @@ Neste perfil, você encontrará alguns dos meus projetos desenvolvidos durante m
 
  <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,nest,docker,figma,github,jest,postman,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,nest,docker,figma,github,jest,postman,vite,bootstrap,mongodb,mysql,postgres,discord,linkedin,instagram" />
 </a>
   <br />
 
