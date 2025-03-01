@@ -12,7 +12,7 @@
 
 ### Conheça mais sobre mim
 
-Seja bem vindo, sou o Lucas, tenho 20 anos. Técnico em Desenvolimento de Sistemas pelo SENAI SP e atualmente cursando ensino superior em Análise e Desenvolvimento de Sistemas pela faculdade Impacta.
+Seja bem vindo, sou o Lucas, tenho 20 anos. Técnico em Desenvolimento de Sistemas pelo SENAI SP.
 Sou desenvolvedor Front-End, meu objetivo é criar páginas e layouts intuitivos e inovadores.
 Neste perfil, você encontrará alguns dos meus projetos desenvolvidos durante minha trajetória que refletem minhas habilidades e interesses.
 
